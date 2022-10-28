@@ -35,6 +35,8 @@ a {
 
 #sidebar a:hover {
     color: #F4EF5E;
+    margin-left: 0.5em;
+    transition: 0.3s;
 
 }
 
