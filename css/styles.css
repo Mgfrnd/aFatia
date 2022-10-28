@@ -190,6 +190,13 @@ form input[type=submit]:hover {
     width: 18.8%;
     margin-left: .5%;
     margin-right: .5%;
+    transition: .5s;
+    opacity: 0.8;
+}
+
+.doces1-imgs:hover {
+    width: 220px;
+    opacity: 1;
 }
 
 #img1 {
@@ -201,9 +208,11 @@ form input[type=submit]:hover {
     background-image: url(../img/galeria2.jpg);
 }
 
+
 #img3 {
     background-image: url(../img/galeria3.jpg);
 }
+
 
 #img4 {
     background-image: url(../img/galeria4.jpg);
@@ -222,7 +231,15 @@ form input[type=submit]:hover {
     height: 150px;
     margin-left: 2%;
     margin-right: .5%;
+    transition: .5s;
+    opacity: 0.8;
 }
+
+.doces2-imgs:hover {
+    width: 200px;
+    opacity: 1;
+}
+
 
 #img6 {
     background-image: url(../img/galeria6.jpg);
@@ -248,6 +265,12 @@ form input[type=submit]:hover {
     height: 350px;
     margin-left: 2%;
     margin-right: .5%;
+    opacity: 0.8;
+    transition: .5s;
+}
+
+.doces3-imgs:hover {
+    opacity: 1;
 }
 
 #img10 {
