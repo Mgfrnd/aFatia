@@ -15,7 +15,7 @@ a {
     position: fixed;
     height: 100%;
     width: 300px;
-    background-color: #006599;
+    background-color: #f44677;
     padding-top: 40px;
 }
 
@@ -70,7 +70,7 @@ a {
 
 .content h1,
 .content h2 {
-    color: #006599;
+    color: #820b0d;
     margin-bottom: 30px;
 }
 
@@ -138,7 +138,7 @@ section {
 
 .sessao-bemvindo-btn,
 form input[type=submit] {
-    background-color: #006599;
+    background-color: #f44677;
     color: #FFF;
     text-decoration: none;
     padding: 20px 40px;
@@ -154,7 +154,7 @@ form input[type=submit] {
 
 .sessao-bemvindo-btn:hover,
 form input[type=submit]:hover {
-    background-color: #2790C6;
+    background-color: #9f4345;
 }
 
 /* Sessao sobre */
@@ -187,7 +187,7 @@ form input[type=submit]:hover {
 
 /* Bolos e Cupcakes */
 .doces1-imgs { 
-    width: 18.8%;
+    width: 22.8%;
     margin-left: .5%;
     margin-right: .5%;
     transition: .5s;
@@ -210,18 +210,15 @@ form input[type=submit]:hover {
 
 
 #img3 {
-    background-image: url(../img/galeria3.jpg);
+    background-image: url(../img/galeria5.jpg);
 }
 
 
 #img4 {
     background-image: url(../img/galeria4.jpg);
-}
-
-#img5 {
-    background-image: url(../img/galeria5.jpg);
     margin-right: 0;
 }
+
 
 /* Café mais gostoso */
 
@@ -298,7 +295,7 @@ form input[type=submit]:hover {
 
 #form-contato input[type=text], #form-contato input[type=email], #form-contato textarea {
     display: block;
-    border: 1px solid #006599;
+    border: 1px solid #9f4345;
     padding: 10px;
     margin-bottom: 20px;
     width: 100%;
@@ -307,7 +304,7 @@ form input[type=submit]:hover {
 }
 
 #form-contato input[type=text]:focus, #form-contato input[type=email]:focus, #form-contato textarea:focus {
-    border-color: #2790C6;
+    border-color: #820b0d;
 
 }
 
@@ -316,7 +313,7 @@ form input[type=submit]:hover {
 }
 
 #form-contato ::placeholder {
-    color: #2790C6;
+    color: #b46d6e;
 }
 
 #form-contato input[type=submit] {
@@ -329,7 +326,7 @@ form input[type=submit]:hover {
 footer {
     height: 100px;
     padding-top: 150px;
-    color: #006599;
+    color: #9f4345;
 }
 
 footer p {
